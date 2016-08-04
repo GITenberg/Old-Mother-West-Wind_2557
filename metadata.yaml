@@ -1,0 +1,34 @@
+_repo: Old-Mother-West-Wind_2557
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Burgess, Thornton W. (Thornton Waldo)
+    alias: Burgess, Thornton Waldo
+    birthdate: 1874
+    deathdate: 1965
+    gutenberg_agent_id: '717'
+    url: http://www.gutenberg.org/2009/agents/717
+    wikipedia: http://en.wikipedia.org/wiki/Thornton_Burgess
+description: Beloved children's classic offers warm, whimsical stories about Billy
+  Mink's swimming party, Little Joe Otter's slippery slide, Reddy Fox's fishing expedition,
+  why Grandfather Frog has no tail, other exciting tales. Gentle lessons about nature
+  and wildlife combined with the fun of a good story.
+gutenberg_bookshelf:
+- Children's Literature
+- Children's Book Series
+gutenberg_issued: '2001-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2557'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s stories, American'
+- !lcc 'PS'
+- !lcc 'PZ'
+- !lcsh 'Animals -- Juvenile fiction'
+- GITenberg
+title: Old Mother West Wind
+url: http://www.gutenberg.org/ebooks/2557
